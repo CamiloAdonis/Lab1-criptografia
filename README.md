@@ -23,7 +23,6 @@ junto con el posterior descifrado mediante ataque de fuerza bruta.
 Instalación de dependencias:
 pip install scapy
 ## ejecucion
-Ejecución
 
 -Cifrado César
 
