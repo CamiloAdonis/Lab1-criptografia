@@ -28,11 +28,11 @@ pip install scapy
 
 cesar.py texto desplazamiento
 
-Envío de ICMP con payload cifrado
+-Envío de ICMP con payload cifrado
 
 sudo python pingv4.py IP(usado para la tarea 8.8.8.8) mensaje cifrado
 
 
-Descifrado de mensajes (MITM)
+-Descifrado de mensajes 
 
 python readv4.py archivo.pcap
